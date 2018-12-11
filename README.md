@@ -10,8 +10,8 @@ Notes:
 - If you have knowledge in php and html web designing, and would like to contribute to this project - please let me know!
 
 
-# Check out the public site of EZBZ at:  ezbz.rf.gd
-
+Check out the public site of EZBZ at:  ezbz.rf.gd
+-------------------------------------------------
 
 
 Overview
