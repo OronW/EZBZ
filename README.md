@@ -4,8 +4,9 @@ Stand alone system to monitor the number of people in a room using WIFI signals
 Notes:
 ------
 1.The system is currently on beta testings. 
-2.Public site has minimal UI. 
+\n2.Public site has minimal UI. 
    It is designed to only show the relevant data at this time, and not to have a great user experience.
+
 3.If you have knowledge in php and html web designing, and would like to contribute to this project - please let me know!
 
 --------------------------------------------------
