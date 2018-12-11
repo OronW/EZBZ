@@ -5,9 +5,7 @@ Notes:
 ------
 - The system is currently on beta testings. 
 
-- Public site has minimal UI.
- 
-It is designed to only show the relevant data at this time, and not to have a great user experience.
+- Public site has minimal UI. It is designed to only show the relevant data at this time, and not to have a great user experience.
 
 - If you have knowledge in php and html web designing, and would like to contribute to this project - please let me know!
 
@@ -44,7 +42,9 @@ Pictures
 
 
 
-
+ 
+  
+   
 Thank you,
 
 Oron Werner
