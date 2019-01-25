@@ -1,5 +1,5 @@
 # EZBZ
-Stand alone system to monitor the number of people in a room using WIFI signals
+Standalone system to monitor the number of people in a room using WIFI signals
 
 Notes:
 ------
